@@ -1,4 +1,5 @@
-Mark Calculator
+MarkCalculator
+==============
 
 Welcome, first release of Mark Calculator code. This was done a long time ago
 so I'm sure there are tons of gross stuff in there, I'll  hopefully get to 
